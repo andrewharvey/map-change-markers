@@ -419,7 +419,7 @@
      id="layer1">
     <g
        id="g6373"
-       inkscape:export-filename="bin/add-65.png"
+       inkscape:export-filename="49/bin/normal/add.png"
        inkscape:export-xdpi="65"
        inkscape:export-ydpi="65">
       <path
@@ -455,7 +455,7 @@
     </g>
     <g
        id="g6379"
-       inkscape:export-filename="bin/remove-65.png"
+       inkscape:export-filename="49/bin/normal/remove.png"
        inkscape:export-xdpi="65"
        inkscape:export-ydpi="65">
       <path
@@ -483,7 +483,7 @@
     </g>
     <g
        id="g6349"
-       inkscape:export-filename="bin/modify-65.png"
+       inkscape:export-filename="49/bin/normal/modify.png"
        inkscape:export-xdpi="65"
        inkscape:export-ydpi="65">
       <path
@@ -517,7 +517,7 @@
     </g>
     <g
        id="g6332"
-       inkscape:export-filename="bin/add-dark-65.png"
+       inkscape:export-filename="49/bin/dark/add.png"
        inkscape:export-xdpi="65"
        inkscape:export-ydpi="65">
       <path
@@ -553,7 +553,7 @@
     </g>
     <g
        id="g6338"
-       inkscape:export-filename="bin/remove-dark-65.png"
+       inkscape:export-filename="49/bin/dark/remove.png"
        inkscape:export-xdpi="65"
        inkscape:export-ydpi="65">
       <path
@@ -581,7 +581,7 @@
     </g>
     <g
        id="g6343"
-       inkscape:export-filename="bin/modify-dark-65.png"
+       inkscape:export-filename="49/bin/dark/modify.png"
        inkscape:export-xdpi="65"
        inkscape:export-ydpi="65">
       <path
@@ -615,7 +615,7 @@
     </g>
     <g
        id="g6366"
-       inkscape:export-filename="bin/add-light-65.png"
+       inkscape:export-filename="49/bin/light/add.png"
        inkscape:export-xdpi="65"
        inkscape:export-ydpi="65">
       <path
@@ -654,7 +654,7 @@
     </g>
     <g
        id="g6384"
-       inkscape:export-filename="bin/remove-light-65.png"
+       inkscape:export-filename="49/bin/light/remove.png"
        inkscape:export-xdpi="65"
        inkscape:export-ydpi="65">
       <path
@@ -682,7 +682,7 @@
     </g>
     <g
        id="g6355"
-       inkscape:export-filename="bin/modify-light-65.png"
+       inkscape:export-filename="49/bin/light/modify.png"
        inkscape:export-xdpi="64.163803"
        inkscape:export-ydpi="64.163803">
       <path
